@@ -57,11 +57,27 @@
 color: transparent;
 }
 
+.content h2{
+    font-size: 70px;
+    margin-top: 80px;
+}
+.content h2{
+-webkit-text-stroke: 1px #fff;
+color: transparent;
+}
+
 .content p{
     margin: 20px auto;
     font-weight: 100;
     line-height: 25px;
 }
+
+.content p2{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 89px;
+}
+
 button{
     width: 200px;
     padding: 15px 0;
